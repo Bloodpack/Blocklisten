@@ -24,6 +24,7 @@
 91.238.181.0-91.238.181.255 # One Host Network Centre Hong Kong
 94.102.61.45
 104.248.0.0-104.248.255.255 # Germany Frankfurt Am Main Digitalocean LLc
+107.150.96.0-107.150.127.255 # Hong Kong Aberdeen Ucloud 
 142.93.0.0-142.93.255.255 # Canada Markham Digitalocean Llc
 147.185.132.0-147.185.139.255 #Palo Alto Networks, Inc PAN-22
 157.245.216.203
