@@ -10,6 +10,7 @@
 45.142.182.111 # XSServer GmbH 
 45.227.254.0-45.227.254.255 # XWIN UNIVERSAL LTD Eduardo Vega
 47.235.0.0-47.246.255.255 # Singapore Singapore Alicloud-sg
+47.250.0.0-47.254.255.255 # Alibaba Cloud LLC
 62.233.50.179
 64.226.64.0-64.226.127.255 # United States New York Digitalocean LLc
 68.183.53.77
