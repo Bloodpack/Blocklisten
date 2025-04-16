@@ -44,5 +44,6 @@
 188.166.26.88
 194.165.16.0-194.165.17.255 # Lithuania Vilnius Flyservers customers
 206.189.7.178
-208.80.248.0-208.80.251.255 #  United States Diamond Bar Cdnetworks Inc
+207.90.244.0-207.90.244.255 # SHODAN-01
+208.80.248.0-208.80.251.255 # United States Diamond Bar Cdnetworks Inc
 209.97.128.0-209.97.191.255 # DIGITALOCEAN-209-97-128-0
