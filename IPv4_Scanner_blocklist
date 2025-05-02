@@ -47,3 +47,4 @@
 207.90.244.0-207.90.244.255 # SHODAN-01
 208.80.248.0-208.80.251.255 # United States Diamond Bar Cdnetworks Inc
 209.97.128.0-209.97.191.255 # DIGITALOCEAN-209-97-128-0
+213.209.143.0/24 # Turkey Bursa Virtualine Technologies 
