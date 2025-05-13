@@ -2,19 +2,24 @@
 
 8.209.69.51
 31.43.185.32
-35.192.0.0-35.207.255.255 # in use by Google Cloud customers
+35.192.0.0/12 # in use by Google Cloud customers
 35.203.210.252
 35.203.211.164
 35.203.211.218
 45.140.17.16
 45.142.182.111 # XSServer GmbH 
 45.227.254.0/24 # XWIN UNIVERSAL LTD Eduardo Vega
-47.235.0.0-47.246.255.255 # Singapore Singapore Alicloud-sg
+47.235.0.0/16 # Singapore Singapore Alicloud-sg 1
+47.236.0.0/14 # Singapore Singapore Alicloud-sg 2
+47.240.0.0/15 # Singapore Singapore Alicloud-sg 3
+47.242.0.0/15 # Singapore Singapore Alicloud-sg 4
+47.244.0.0/15 # Singapore Singapore Alicloud-sg 5
+47.246.0.0/16 # Singapore Singapore Alicloud-sg 6
 47.250.0.0/15 # Alibaba Cloud LLC
 47.252.0.0/15 # Alibaba Cloud LLC
 47.254.0.0/16 # Alibaba Cloud LLC
 62.233.50.179
-64.226.64.0-64.226.127.255 # United States New York Digitalocean LLc
+64.226.64.0/18 # United States New York Digitalocean LLc
 68.183.53.77
 79.124.62.106
 80.66.88.211
@@ -30,22 +35,23 @@
 104.248.0.0/16 # Germany Frankfurt Am Main Digitalocean LLc
 107.150.96.0/19 # Hong Kong Aberdeen Ucloud 
 142.93.0.0/16 # Canada Markham Digitalocean Llc
-147.185.132.0-147.185.139.255 # Palo Alto Networks, Inc PAN-22
+147.185.132.0/22 # Palo Alto Networks, Inc PAN-22
+147.185.136.0/22 # Palo Alto Networks, Inc PAN-23
 148.153.0.0/16 # CDS Global Cloud Co., Ltd (CDSC-1)
 157.245.216.203
-161.35.0.0-161.35.255.255 # United States Westford Digitalocean LLc
-162.216.148.0-162.216.151.255 # in use by Google Cloud customers
+161.35.0.0/16 # United States Westford Digitalocean LLc
+162.216.148.0/22 # in use by Google Cloud customers
 165.22.39.64
 167.99.209.184
-170.64.128.0-170.64.255.255 # DigitalOcean, LLC DO-13
-172.93.128.0-172.93.255.255 # AS20278 NEXEON Dallas 365 Group
+170.64.128.0/17 # DigitalOcean, LLC DO-13
+172.93.128.0/17 # AS20278 NEXEON Dallas 365 Group
 179.60.147.204
 185.161.248.205
-185.242.226.0-185.242.226.255 # security.criminalip.com chinaschrott aus NL
+185.242.226.0/24 # security.criminalip.com chinaschrott aus NL
 188.166.26.88
-194.165.16.0-194.165.17.255 # Lithuania Vilnius Flyservers customers
+194.165.16.0/23 # Lithuania Vilnius Flyservers customers
 206.189.7.178
-207.90.244.0-207.90.244.255 # SHODAN-01
-208.80.248.0-208.80.251.255 # United States Diamond Bar Cdnetworks Inc
-209.97.128.0-209.97.191.255 # DIGITALOCEAN-209-97-128-0
+2207.90.244.0/24 # SHODAN-01
+208.80.248.0/22 # United States Diamond Bar Cdnetworks Inc
+209.97.128.0/18 # DIGITALOCEAN-209-97-128-0
 213.209.143.0/24 # Turkey Bursa Virtualine Technologies 
