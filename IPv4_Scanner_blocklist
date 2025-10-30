@@ -47,6 +47,7 @@
 167.99.209.184
 170.64.128.0/17 # DigitalOcean, LLC DO-13
 172.93.128.0/17 # AS20278 NEXEON Dallas 365 Group
+176.65.134.0/24 # AS208191 GoHost Go Host Ltd GB
 179.60.147.204
 185.161.248.205
 185.242.226.0/24 # security.criminalip.com chinaschrott aus NL
