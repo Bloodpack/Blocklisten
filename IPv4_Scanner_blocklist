@@ -22,6 +22,7 @@
 47.254.0.0/16 # Alibaba Cloud LLC
 62.233.50.179
 64.226.64.0/18 # United States New York Digitalocean LLc
+66.228.32.0/19 # AS63949 AKAMAI-LINODE-AP Akamai Connected Cloud
 68.183.53.77
 79.124.62.106
 80.66.88.211
