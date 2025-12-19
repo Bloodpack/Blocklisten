@@ -7,6 +7,7 @@
 35.203.210.252
 35.203.211.164
 35.203.211.218
+45.33.0.0/17 # Linode US 
 45.82.78.0/24 # AS212512 DETAI Detai Prosperous Technologies
 45.140.17.16
 45.142.182.111 # XSServer GmbH 
