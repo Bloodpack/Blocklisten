@@ -25,6 +25,7 @@
 64.226.64.0/18 # United States New York Digitalocean LLc
 66.228.32.0/19 # AS63949 AKAMAI-LINODE-AP Akamai Connected Cloud
 68.183.53.77
+69.164.192.0/19 # Linode US
 79.124.62.106
 80.66.88.211
 80.66.88.215
