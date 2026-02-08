@@ -26,6 +26,7 @@
 66.228.32.0/19 # AS63949 AKAMAI-LINODE-AP Akamai Connected Cloud
 68.183.53.77
 69.164.192.0/19 # Linode US
+77.90.185.0/24 #  AS215476 InsideNetwork Inside Network LTD, GB
 79.124.62.106
 80.66.88.211
 80.66.88.215
@@ -35,7 +36,9 @@
 89.190.156.0/24 # Alsycon VPS-Dedicated Servers-Colocation
 89.248.163.0/25 # RECYBER PROJECT NETBLOCK NET-3-163
 89.248.165.0/24 # https://www.recyber.net
+91.231.89.0/24 #  AS213412 ONYPHE ONYPHE SAS, FR
 91.238.181.0/24 # One Host Network Centre Hong Kong
+92.63.197.0/24 #  AS211736 FDN3 FOP Dmytro Nedilskyi
 94.102.61.45
 104.248.0.0/16 # Germany Frankfurt Am Main Digitalocean LLc
 107.150.96.0/19 # Hong Kong Aberdeen Ucloud 
