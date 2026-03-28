@@ -47,6 +47,7 @@
 147.185.136.0/22 # Palo Alto Networks, Inc PAN-23
 148.153.0.0/16 # CDS Global Cloud Co., Ltd (CDSC-1)
 157.245.216.203
+159.89.0.0/16 # Digitalocen LLC Germany Frankfurt
 161.35.0.0/16 # United States Westford Digitalocean LLc
 162.216.148.0/22 # in use by Google Cloud customers
 165.22.39.64
