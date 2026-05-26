@@ -51,6 +51,7 @@
 161.35.0.0/16 # United States Westford Digitalocean LLc
 162.216.148.0/22 # in use by Google Cloud customers
 165.22.39.64
+165.245.128.0/17 # Digital Ocen LLC US
 167.99.209.184
 170.64.128.0/17 # DigitalOcean, LLC DO-13
 172.93.128.0/17 # AS20278 NEXEON Dallas 365 Group
