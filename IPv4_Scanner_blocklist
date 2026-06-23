@@ -67,7 +67,8 @@
 188.166.26.88
 194.165.16.0/23 # Lithuania Vilnius Flyservers customers
 206.189.7.178
-2207.90.244.0/24 # SHODAN-01
+207.90.244.0/24 # SHODAN-01
 208.80.248.0/22 # United States Diamond Bar Cdnetworks Inc
+208.87.240.0/22
 209.97.128.0/18 # DIGITALOCEAN-209-97-128-0
 213.209.143.0/24 # Turkey Bursa Virtualine Technologies 
